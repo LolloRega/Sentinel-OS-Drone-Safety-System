@@ -1,0 +1,4 @@
+﻿__pycache__/
+*.pyc
+corevision_env/
+.vscode/
